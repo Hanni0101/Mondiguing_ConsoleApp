@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mondiguing_ConsoleApp", "Mondiguing_ConsoleApp\Mondiguing_ConsoleApp.csproj", "{C8BC0F8F-2178-4720-8E4A-17A1B7996225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BC0F8F-2178-4720-8E4A-17A1B7996225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BC0F8F-2178-4720-8E4A-17A1B7996225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BC0F8F-2178-4720-8E4A-17A1B7996225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BC0F8F-2178-4720-8E4A-17A1B7996225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE626FF-78ED-492F-9BFA-307BAD0E3A36}
+	EndGlobalSection
+EndGlobal
